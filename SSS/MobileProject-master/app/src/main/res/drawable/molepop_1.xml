@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" > // 처음 속도 증가후 애니메이션
+    <item android:drawable="@drawable/mole2"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole3"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole4"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole5"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole6"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole7"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole8"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole9"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole10"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole11"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole12"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole13"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole14"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole15"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole16"
+        android:duration="80"/>
+    <item android:drawable="@drawable/mole17"
+        android:duration="80"/>
+</animation-list>
